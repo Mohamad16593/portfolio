@@ -63,12 +63,12 @@
 </template>
 <script setup>
 import { useI18n } from "vue-i18n";
-import chefs from "@/assets/images/projectsImags/43.jpg";
-import ella from "@/assets/images/projectsImags/3.jpg";
-import dash from "@/assets/images/projectsImags/33.jpg";
-import kasper from "@/assets/images/projectsImags/24.jpg";
-import luxe from "@/assets/images/projectsImags/9.jpg";
-import portfolio from "@/assets/images/projectsImags/portfolio.jpg";
+import chefs from "@/assets/images/projectsImags/43.JPG";
+import ella from "@/assets/images/projectsImags/3.JPG";
+import dash from "@/assets/images/projectsImags/33.JPG";
+import kasper from "@/assets/images/projectsImags/24.JPG";
+import luxe from "@/assets/images/projectsImags/9.JPG";
+import portfolio from "@/assets/images/projectsImags/portfolio.JPG";
 
 const { t, locale } = useI18n();
 const projects = [
