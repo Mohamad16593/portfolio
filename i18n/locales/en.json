@@ -1,0 +1,80 @@
+{
+  "greeting": "Hi Everybody I'm",
+  "me": "Mohammad Wakkaf",
+  "job": "I'm a Fullstack developer , let me create something awesome for you",
+  "experience": "Years of experience",
+  "see": "You can see my CV here:",
+  "cv": "See CV",
+  "about": "About",
+  "exper": "Experiences",
+  "aboutText": "I'm Computers Engineer with Master Degree in Automation & Frontend engineer with 2 years of experience and have solid knowledge in Backend, SEO, and responsive development. Engineered and launched single-page applications (SPAs) using Vue js and Nuxt js with Vuetify frameworks.",
+  "exp1": "Responsive Websites | Pure HTML and CSS , JavaScript",
+  "exp2": "E-commerce Websites | Vue.js, Vuetify",
+  "exp3": "Personal Portfolios Website | Vue.js, Vuetify",
+  "exp4": "SSR Websites | Nuxt.js, Vue.js, Vuetify",
+  "chefs": "Cooking website, Single page application (SPA) contains 3 pages and Registering e-mails system with Dynamic pages for each recipe",
+  "ella": "E-commerce website, Single page application (SAP), contains multiple pages due to products categories, Cart and payments system with Dynamic pages for each product. ",
+  "resp": "And Sure, All projects are fully responsive ..",
+  "proj": "Projects",
+  "luxe": "A fully responsive real estate website, designed to showcase apartments for sale and rent. Featuring an intuitive UI, and smooth animations, this project enhances user experience while delivering modern design.",
+  "kasper": "A virtual company, clean and engaging layout with interactive elements, smooth animations, and responsive design, this project highlights front-end development expertise and attention to detail..",
+  "dash": "A clean and modern dashboard UI, featuring well-organized section . Optimized for seamless navigation, the dashboard provides an intuitive user experience ",
+  "portfolio": "my first Portfoilo, Single page application (SPA) built with Vue and Vuetify, contains 3 pages.",
+
+  "visit": "Visit",
+  "kitchen": "Cheif's Kitchen",
+  "ecom": "Ella E-commerce",
+  "myport": "My previous portfolio",
+  "dboard": "Dashboard",
+  "kasp": "Kasper",
+  "luxstate": "Luxe State",
+
+  "faq": {
+    "items": [
+      {
+        "question": "Can you build a Single Page Application (SPA) for me?",
+        "answer": "Yes, absolutely. There's nothing better than an SPA to make your website fast and modern — and I can build it for you."
+      },
+      {
+        "question": "What will make my website special if you create it?",
+        "answer": "Every designer and developer has a unique perspective. Anyone can pick colors and animations, but choosing how and which elements to combine — that’s what makes a website truly special."
+      },
+      {
+        "question": "Will it be responsive?",
+        "answer": "Of course! Your website will look beautiful on any device and at every screen width."
+      },
+      {
+        "question": "I need to ensure my website’s performance is solid.",
+        "answer": "That’s your right — and I’ve got you covered. I’ll make sure your website performs well, and I’ll stay with you until you're fully satisfied."
+      },
+      {
+        "question": "I want my website to be SEO-friendly!",
+        "answer": "I use the Nuxt.js framework, which is SEO-friendly by design. You can be confident your site will rank well when users search on Google or other engines."
+      },
+      {
+        "question": "What types of websites can you create?",
+        "answer": "Portfolios, e-commerce stores, company websites — especially those that want to showcase their services and products."
+      },
+      {
+        "question": "What’s the price for each page?",
+        "answer": "It depends on the type of project. Some pages are simple and inexpensive. We can talk about your project’s size and features, and then agree on pricing. I’ll make sure you’re happy and fully satisfied."
+      }
+    ]
+  },
+  "another": "Looking for something else?",
+  "contact": "If you have any questions or would like to rate my projects, feel free to reach out via my social media accounts or send me an",
+  "email": "E-mail",
+  "socialNet": "Get connected with social networks",
+  "skills": "Skills",
+  "faqtitle": "FAQ",
+  "emailheader": "If you want to ask something, discuss your project, or rate my work, please fill out the form below.",
+  "yourName": "Your Name",
+  "subject": "Subject",
+  "message": "Message",
+  "attach": "Attach File(s)",
+  "send": "Send",
+  "require": "This field is required",
+  "valid": "Please enter a valid email",
+  "success": "Your message was sent successfully.",
+  "failed": "Send failed. Please try again later."
+}
