@@ -51,9 +51,8 @@ import { useI18n } from "vue-i18n";
 const dialog = ref(false);
 
 const { t, tm, locale } = useI18n();
-const rawFaqs = tm("faq.items");
-const faqs = rawFaqs.map((item) => ({
-  question: item.question.body?.static,
-  answer: item.answer.body?.static,
+const faqs =  tm("faq.items").map((item) => ({
+  question: item.question,
+  answer: item.answer,
 }));
 </script>
