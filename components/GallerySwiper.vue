@@ -13,7 +13,7 @@
         :free-mode-momentum="false"
         :speed="3000"
         :slides-per-view="1"
-        :allow-touch-move="false"
+        :allow-touch-move="true"
         :space-between="10"
         :breakpoints="{
           '640': { slidesPerView: 2, spaceBetween: 10 },
