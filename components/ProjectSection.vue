@@ -69,6 +69,8 @@ import dash from "@/assets/images/projectsImags/33.JPG";
 import kasper from "@/assets/images/projectsImags/24.JPG";
 import luxe from "@/assets/images/projectsImags/9.JPG";
 import portfolio from "@/assets/images/projectsImags/portfolio.JPG";
+  import dash from "@/assets/images/dash.JPG";
+import seatronix from "@/assets/images/seatronix.JPG";
 
 const { t, locale } = useI18n();
 const projects = [
@@ -78,6 +80,20 @@ const projects = [
     image: chefs,
     techniques: ["Nuxt", "Vue", "Vuetify", "Gsap", "API", "Swiper", "Pinia"],
     link: "https://chefs-kitchen-two.vercel.app/",
+  },
+  {
+    title: t("chairs"),
+    description: t("seatrix"),
+    image: seatronix,
+    techniques: ["Nuxt", "Vue", "Vuetify", "Gsap", "API", "Swiper", "Pinia"],
+    link: "https://seatronix.vercel.app/",
+  },
+  {
+    title: t("chairsdash"),
+    description: t("seatrixdash"),
+    image: seatronix,
+    techniques: ["Nuxt", "Vue", "Vuetify","API","ZOD Validation","Vee Validation"],
+    link: "https://seatronix.vercel.app/dashboard",
   },
   {
     title: t("ecom"),
