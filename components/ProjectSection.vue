@@ -69,7 +69,7 @@ import dash from "@/assets/images/projectsImags/33.JPG";
 import kasper from "@/assets/images/projectsImags/24.JPG";
 import luxe from "@/assets/images/projectsImags/9.JPG";
 import portfolio from "@/assets/images/projectsImags/portfolio.JPG";
-  import dash from "@/assets/images/dash.JPG";
+  import dashboard from "@/assets/images/dash.JPG";
 import seatronix from "@/assets/images/seatronix.JPG";
 
 const { t, locale } = useI18n();
