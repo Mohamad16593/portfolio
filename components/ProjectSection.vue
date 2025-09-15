@@ -91,7 +91,7 @@ const projects = [
   {
     title: t("chairsdash"),
     description: t("seatrixdash"),
-    image: seatronix,
+    image: dashboard,
     techniques: ["Nuxt", "Vue", "Vuetify","API","ZOD Validation","Vee Validation"],
     link: "https://seatronix.vercel.app/dashboard",
   },
