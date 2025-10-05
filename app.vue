@@ -14,9 +14,9 @@ useSeoMeta({
   title: "Mohamad Wakkaf",
   ogTitle: "Mohamad Wakkaf",
   description:
-    "Welcom to my portfolio ,I'm frontend Nuxt developer and i will be happy to work with you",
+    "Welcom to my portfolio ,I'm fullstack Nuxt developer and i will be happy to work with you",
   ogDescription:
-    "Welcom to my portfolio ,I'm frontend Nuxt developer and i will be happy to work with you",
+    "Welcom to my portfolio ,I'm fullstack Nuxt developer and i will be happy to work with you",
 });
 
 import { useI18n } from "vue-i18n";
