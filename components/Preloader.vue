@@ -1,6 +1,6 @@
 <template>
   <div class="loader-screen">
-    <div class="loader-text">
+    <div class="loader-text" dir="ltr">
       <span>L</span><span>O</span><span>A</span><span>D</span><span>I</span
       ><span>N</span><span>G</span>
     </div>
